@@ -4,6 +4,10 @@ layout: page
 permalink: /cv
 ---
 
-# Welcome
+# Personal info
 
-Bla bla bla bla. Bla bla bla bla bla bla bla bla.
+## Skills
+
+### Education
+
+#### Career
