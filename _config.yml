@@ -3,6 +3,7 @@ robots: noindex
 
 header_pages:
   - cv.md
+  - cv_rus.md
 
 style: dark
 
