@@ -1,7 +1,7 @@
 ---
-title: /
+title: /cv
 layout: home
-permalink: /
+permalink: /cv
 ---
 
 # Welcome
