@@ -9,31 +9,31 @@ permalink: /cv_rus
 Место проживания: Россия, г. Казань
 
 ## Опыт/знания/навыки
-Linux(arch, debian, ubuntu, alpine)
-Docker, Docker compose
-Kubernetes: ingress, cert-manager, calico
-yandex.cloud
-JS, Python
-Redis, Postgres
-Git, Gitlab CI/CD
-Apache, Nginx
-Wireshark, RouterOS
+* Linux(arch, debian, ubuntu, alpine)
+* Docker, Docker compose
+* Kubernetes: ingress, cert-manager, calico
+* yandex.cloud
+* JS, Python
+* Redis, Postgres
+* Git, Gitlab CI/CD
+* Apache, Nginx
+* Wireshark, RouterOS
 
 ### Карьера
 Май 2019 — по настоящее время
 ООО «Бипиум» - Инженер внедрения
-1. Разработка сценариев системы "Бипиум"
-2. Кластеризация сервиса (k8s + Docker)
-3. Gitlab CI/CD
-4. Ведение технической документации
-5. Обслуживание офисной сети, маршрутизаторов 
-6. Телефония Oktell
-7. Проектирование/анализ бизнес-процессов
-8. Тех. поддержка корпоративных клиентов
-
++ Разработка сценариев системы "Бипиум"
++ Кластеризация сервиса (k8s + Docker)
++ Gitlab CI/CD
++ Ведение технической документации
++ Обслуживание офисной сети, маршрутизаторов 
++ Телефония Oktell
++ Проектирование/анализ бизнес-процессов
++ Тех. поддержка корпоративных клиентов
+***
 Май 2018 — Август 2018
 ООО «СТАТУС-К» - системный администратор
-
+***
 Апрель 2017 — Май 2017
 «Республиканская клиническая больница» МЗ РТ - Инженер АСУ
 
