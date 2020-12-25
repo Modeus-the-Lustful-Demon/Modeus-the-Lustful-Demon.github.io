@@ -7,27 +7,27 @@ permalink: /cv_rus
 ## Личная информация
 23 года
 Место проживания: Россия, г. Казань
-Языки: русский родной, английский B1
+Языки: русский, английский B1
 
 ## Опыт/знания/навыки
-* Linux(arch, debian, ubuntu, alpine)
-* Docker, Docker compose
-* Kubernetes: ingress, cert-manager, calico
+* Уверенный пользователь Linux
+* Docker(compose)
+* Kubernetes
 * yandex.cloud
-* JS, Python
+* JS, Python, bash
 * Redis, Postgres
 * Git, Gitlab CI/CD
-* Apache, Nginx
+* Nginx
 * TCP/IP, DNS, DHCP
-* Wireshark, RouterOS
+* Wireshark, Mikrotik RouterOS
 
 ## Карьера
 Май 2019 — настоящее время
 ООО «Бипиум» - Инженер внедрения
-* Кластеризация сервиса (k8s + Docker)
+* Кластеризация, контейнеризация приложения (k8s, Docker)
 * Gitlab CI/CD
 * Ведение технической документации
-* Написание сценариев автоматизации(JS)
+* Написание сценариев автоматизации(JS,Bash)
 * Проектирование/анализ бизнес-процессов
 * Тех. поддержка
 
