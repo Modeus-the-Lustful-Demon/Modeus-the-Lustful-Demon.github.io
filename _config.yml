@@ -7,7 +7,7 @@ header_pages:
 
 style: dark
 
-footer: 'contact me via telegram: <a href="https://t.me/you_can_try_atleast">@you_can_try_atleast</a>'
+footer: 'contact me via telegram: <a href="https://t.me/you_should_try_atleast">@you_should_try_atleast</a>'
 
 # Build settings
 markdown: kramdown
