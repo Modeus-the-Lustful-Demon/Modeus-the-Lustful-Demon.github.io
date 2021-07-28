@@ -2,12 +2,11 @@ url: "https://modeus-the-lustful-demon.github.io"
 robots: noindex
 
 header_pages:
-  - cv.md
   - cv_rus.md
 
 style: dark
 
-footer: 'contact me via telegram: <a href="https://t.me/you_should_try_atleast">@you_should_try_atleast</a>'
+footer: 'contact me via telegram: <a href="https://t.me/soo_cubus">@soo_cubus</a>'
 
 # Build settings
 markdown: kramdown
