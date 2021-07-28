@@ -11,18 +11,20 @@ permalink: /cv_rus
 
 ## Опыт/знания/навыки
 * Уверенный пользователь Linux
-* Docker(compose)
+* Ansible, Molecule, Vagrant
+* Prometheus, Loki, Grafana
+* Docker, Docker compose
 * Kubernetes
-* yandex.cloud
-* JS, Python, bash
-* Redis, Postgres
+* Yandex.Cloud, Amazon Web Services
+* JS, Python
+* Redis, Postgres, Couchbase
 * Git, Gitlab CI/CD
-* Nginx
+* Nginx, Caddy
 * TCP/IP, DNS, DHCP
 * Wireshark, Mikrotik RouterOS
 
 ## Карьера
-Май 2019 — настоящее время
+Май 2019 — Январь 2021
 ООО «Бипиум» - Инженер внедрения
 * Кластеризация, контейнеризация приложения (k8s, Docker)
 * Gitlab CI/CD
@@ -30,6 +32,24 @@ permalink: /cv_rus
 * Написание сценариев автоматизации(JS,Bash)
 * Проектирование/анализ бизнес-процессов
 * Тех. поддержка
+
+Февраль 2021 - Апрель 2021
+ООО "Синарра Системс" - Junior DevOps
+* Разработка, тестирование Ansible ролей
+* Деплой сервисов в закрытом окружении
+* Описание, агрегация, презентация: метрики, логи, алерты
+* Обслуживание, резервирование, апгрейд Postgres
+* Развертывание Couchbase кластера
+* Написание скриптов автоматизации (Python)
+* Реагирование на инциденты
+
+Июнь 2021 - Настоящее время
+ООО "Философия.ИТ" - Junior DevOps
+* Gitlab CI/CD
+* Деплой сервисов в закрытом окружении
+* Разработка Ansible ролей
+* Обслуживание k8s кластера
+* Реагирование на инциденты
 
 ## Образование
 Средне-специальное:
