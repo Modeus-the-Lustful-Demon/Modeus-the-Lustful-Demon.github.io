@@ -48,7 +48,7 @@ permalink: /cv_rus
 <br>
 
 Июнь 2021 - Настоящее время
-ООО «Философия.ИТ» - Junior DevOps
+ООО «Философия.ИТ» - Middle DevOps
 * Gitlab CI/CD, Minio S3
 * Деплой сервисов в закрытом окружении
 * Разработка Ansible ролей
